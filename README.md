@@ -35,3 +35,9 @@ Advanced Capabilities
 - Use the Gemini CLI GitHub Action for automated PR reviews
 - Automated issue triage and on-demand AI assistance directly in your repositories
 - Seamless integration with your GitHub workflows
+
+#### Workflow
+Initiated using npx command and looks great, was able to authenticate using a gmail account.  
+First asked Gemini to fix the pesky github PAT issue I've had on this machine using ubuntu 22.04 on WSL2.
+
+
