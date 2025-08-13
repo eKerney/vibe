@@ -39,5 +39,6 @@ Advanced Capabilities
 #### Workflow
 Initiated using npx command and looks great, was able to authenticate using a gmail account.  
 First asked Gemini to fix the pesky github PAT issue I've had on this machine using ubuntu 22.04 on WSL2.
+Trying again after if set the incorrect path for the credential manager
 
 
