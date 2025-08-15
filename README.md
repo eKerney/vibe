@@ -56,4 +56,9 @@ It was able to generate a requirements.txt and notebook with what I had asked fo
 #### 8-15-2025
 The notebook didn't work at first, and had some characters that VSCode could not parse properly from the JSON.
 This took a couple of tries, and Gem was able to eventually fix the issue when told what the errors were.
+Instructions to follow for using cookie to query
+1. Log in to LinkedIn in your regular browser (like Chrome or Firefox).                                                                                
+2. Open the developer tools in your browser. You can usually do this by pressing F12 or right-clicking on the page and selecting "Inspect".                                                                                                                                          
+3. Go to the "Application" or "Storage" tab and find the cookies for linkedin.com.                                                                     
+4. Find the cookie named `li_at` and copy its value.
 
