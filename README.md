@@ -43,3 +43,17 @@ Trying again after if set the incorrect path for the credential manager.
 Seems that the problem is the lack of a graphical interface which is correct on WSL.
 Finally the browser auth dialog popped up.
 
+#### 8-14-2025
+Installing Gemini via npm vs using the npx command to run without installing
+```bash
+npm install -g @google/gemini-cli
+```
+Planning to test using gemini to automate Market Research in the Geospatial Domain.   
+OK so far this looks great! 
+I asked gemini to create a jupyter notebook I could use to 'query' my linkedin feed for any post and information related to the Geospatial market.
+It was able to generate a requirements.txt and notebook with what I had asked for, now on to testing!
+
+#### 8-15-2025
+The notebook didn't work at first, and had some characters that VSCode could not parse properly from the JSON.
+This took a couple of tries, and Gem was able to eventually fix the issue when told what the errors were.
+
